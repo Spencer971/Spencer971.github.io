@@ -32,6 +32,7 @@ li
 div 
 {
     color: black;
+    border-radius:15px;
     background-color: antiquewhite;
     border: 5px solid blue;
     margin: 15px;

@@ -25,12 +25,12 @@ li
     display: inline;
     margin: 5%;
 }
-div
-{
+div {
     color: black;
     background-color: antiquewhite;
     border: 5px solid blue;
     margin: 15px;
+    border-radius: 15px;
     padding: 10px;
 }
 div:hover
